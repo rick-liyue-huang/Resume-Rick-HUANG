@@ -1,0 +1,85 @@
+
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1494119883814'); /* IE9*/
+  src: url('iconfont.eot?t=1494119883814#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('iconfont.woff?t=1494119883814') format('woff'), /* chrome, firefox */
+  url('iconfont.ttf?t=1494119883814') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1494119883814#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-info:before { content: "\e604"; }
+
+.icon-code:before { content: "\e656"; }
+
+.icon-info1:before { content: "\e670"; }
+
+.icon-icon09:before { content: "\e606"; }
+
+.icon-icon10:before { content: "\e607"; }
+
+.icon-linkedin:before { content: "\e60f"; }
+
+.icon-info2:before { content: "\e611"; }
+
+.icon-github:before { content: "\e69f"; }
+
+.icon-linkedin1:before { content: "\e6e2"; }
+
+.icon-code1:before { content: "\e601"; }
+
+.icon-github2:before { content: "\e741"; }
+
+.icon-experience:before { content: "\e75f"; }
+
+.icon-icon:before { content: "\e609"; }
+
+.icon-experience1:before { content: "\e6b8"; }
+
+.icon-homepage:before { content: "\e60e"; }
+
+.icon-contact:before { content: "\e603"; }
+
+.icon-icskill:before { content: "\e642"; }
+
+.icon-contact1:before { content: "\e7d5"; }
+
+.icon-nodejs:before { content: "\e655"; }
+
+.icon-homepage1:before { content: "\e62b"; }
+
+.icon-h5:before { content: "\e73b"; }
+
+.icon-blog:before { content: "\e602"; }
+
+.icon-contact2:before { content: "\e64b"; }
+
+.icon-github-copy:before { content: "\e608"; }
+
+.icon-Fm8RVIQuNz:before { content: "\e635"; }
+
+.icon-skill:before { content: "\e622"; }
+
+.icon-experience2:before { content: "\e605"; }
+
+.icon-JS:before { content: "\e636"; }
+
+.icon-socialangular:before { content: "\e600"; }
+
+.icon-xuexi:before { content: "\e696"; }
+
+.icon-angular-logo:before { content: "\e60d"; }
+
+.icon-js:before { content: "\e62c"; }
+
+.icon-social-angular:before { content: "\e7d2"; }
+
+.icon-angular:before { content: "\e639"; }
+
