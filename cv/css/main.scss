@@ -143,6 +143,10 @@
         content: "\e7d2";
     }
 
+    .icon-react:before {
+        content: "\e644";
+    }
+
 
     /* ===========================  set the main body style when device width > 768px ===============================================*/ 
 
@@ -210,7 +214,7 @@
     .page2 {
         text-align: center;
         .tit2 {
-            margin: 20px 0;
+            margin: 10px 0;
         }
         .content {
             width: 940px;
@@ -342,6 +346,7 @@
                 background: #efefef;
             }
         }
+
     }
 
     /* the fourth page */
@@ -660,7 +665,13 @@
                     font-size: .13rem;
                 }
             }
+
+            .smallhiden {
+                display: none;
+            }
         }
+
+
 
         /* fourth page */
         .page4 {

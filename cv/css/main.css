@@ -100,6 +100,9 @@ body {
 .icon-angular:before {
   content: "\e7d2"; }
 
+.icon-react:before {
+  content: "\e644"; }
+
 /* ===========================  set the main body style when device width > 768px ===============================================*/
 .wrap,
 .container,
@@ -156,7 +159,7 @@ body {
 .page2 {
   text-align: center; }
   .page2 .tit2 {
-    margin: 20px 0; }
+    margin: 10px 0; }
   .page2 .content {
     width: 940px;
     margin: 0 auto; }
@@ -235,7 +238,7 @@ body {
     vertical-align: middle;
     width: 150px;
     height: 150%;
-    margin: 5px 10px;
+    margin: 5px 20px;
     background: #efefef;
     border: 1px solid #efefef;
     box-shadow: 0px 3px 4px 1px rgba(0, 0, 0, 0.35);
@@ -273,9 +276,7 @@ body {
       transform: rotateY(180deg) translateZ(1px);
       backface-visibility: hidden;
       overflow: hidden;
-      background: #efefef;
-      padding: 2px; word-break:keep-all; 
-    }
+      background: #efefef; }
 
 /* the fourth page */
 .page4 {
@@ -524,6 +525,8 @@ body {
     .page3 .skill .backface {
       padding: .1rem;
       font-size: .13rem; }
+  .page3 .smallhiden {
+    display: none; }
 
   /* fourth page */
   .page4 .tit4 {
