@@ -122,11 +122,11 @@ body {
 
 .page2,
 .page4 {
-  background: #e8e8e8; }
+  background: #ccc; }
 
 .page3,
 .page5 {
-  background: #bbb; }
+  background: #ccc; }
 
 .title {
   font-size: 30px; }
@@ -157,7 +157,8 @@ body {
 
 /* the second page */
 .page2 {
-  text-align: center; }
+  text-align: center;
+  background-color: #ccc; }
   .page2 .tit2 {
     margin: 10px 0; }
   .page2 .content {
@@ -202,9 +203,9 @@ body {
         padding: 5px 10px;
         margin: 8px 0;
         color: #fff;
-        background: #660099;
+        background: skyblue;
         border-radius: 4px;
-        box-shadow: 0 3px 0 0 #6600ee; }
+         }
     .page2 .project.pro1 {
       float: left;
       margin-right: 50%; }
@@ -254,13 +255,13 @@ body {
       width: 120px;
       height: 36px;
       margin: 5px auto;
-      border-bottom: 3px solid #660099; }
+      border-bottom: 3px solid #bbb; }
     .page3 .skill .skill-point {
       font-size: 16px;
       display: inline-block;
       margin: 5px 20px;
       padding: 5px 10px;
-      background: rgba(36, 36, 0, 0.4);
+      background: #bbb;
       border-radius: 8px; }
     .page3 .skill .backface {
       position: absolute;
@@ -415,7 +416,7 @@ body {
     height: 50px;
     width: 50px;
     margin: 10px 0;
-    background: #660099;
+    background: skyblue;
     border-radius: 25px;
     cursor: pointer;
     font-size: 30px;
@@ -432,13 +433,13 @@ body {
       font-size: 16px;
       color: #aaa; }
     .nav-right .item.on {
-      background: #666600;
+      background: orange;
       color: #000;
       transform: scale(1.2);
       margin: 20px 0; }
     @media (min-width: 769px) {
       .nav-right .item:hover {
-        background: #666600;
+        background: lightgreen;
         color: #000;
         transform: scale(1.3);
         margin: 20px 0; }
